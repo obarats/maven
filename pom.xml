@@ -28,6 +28,6 @@
     <repository>
         <id>internal.repo</id>
         <name>Temporary Staging Repository</name>
-        <url>C:\Users\tsuneo\git\maven\mvn-repo</url>
+        <url>C:\Users\tsuneo\git\maven\target\mvn-repo</url>
     </repository>
 </distributionManagement>
