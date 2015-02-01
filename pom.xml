@@ -37,7 +37,7 @@
     
     <dependency>
       <groupId>com.asakusafw</groupId>
-      <artifactId>asakusa-distribution</artifactId>
+      <artifactId>asakusa-gradle-plugins</artifactId>
       <version>0.7.2</version>
     </dependency>
 
