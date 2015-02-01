@@ -17,7 +17,7 @@
 
   <repositories>
     <repository>
-      <id>asakusafw</id>
+      <id>com.asakusafw</id>
       <url>http://asakusafw.s3.amazonaws.com/maven/releases</url>
     </repository>
   </repositories>
