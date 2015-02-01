@@ -34,13 +34,6 @@
       <artifactId>site-maven-plugin</artifactId>
       <version>0.10</version>
     </dependency>
-
-    <dependency>
-      <groupId>com.asakusafw</groupId>
-      <artifactId>asakusa-gradle-plugins</artifactId>
-      <version>0.7.2</version>
-    </dependency>
-
   </dependencies>
 
   <build>
